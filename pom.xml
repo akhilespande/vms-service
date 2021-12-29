@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.akhilesh</groupId>
 	<artifactId>vms-service</artifactId>
-	<version>0.2-SNAPSHOT</version>
+	<version>0.1-SNAPSHOT</version>
 	<name>vms-service</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
