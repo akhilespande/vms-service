@@ -1,4 +1,4 @@
-A quick demo how to publish a jar package and a release to github
+A quick guidelines  how to publish a jar package and a release to github
 
 **Steps to release jar to github:**
 
