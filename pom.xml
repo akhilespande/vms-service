@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.akhilesh</groupId>
 	<artifactId>vms-service</artifactId>
-	<version>0.1-SNAPSHOT</version>
+	<version>0.1</version>
 	<name>vms-service</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
@@ -26,7 +26,7 @@
 		<connection>scm:git:git@github.com:akhilespande/vms-service.git</connection>
 		<developerConnection>scm:git:git@github.com:akhilespande/vms-service.git</developerConnection>
 		<url>https://github.com/akhilespande/vms-service</url>
-		<tag>@{project.version}</tag>
+		<tag>0.1</tag>
 	</scm>
 
 	<dependencies>
