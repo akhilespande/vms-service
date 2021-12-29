@@ -29,6 +29,23 @@
 		<tag>@{project.version}</tag>
 	</scm>
 
+	<distributionManagement>
+		<repository>
+			<id>github</id>
+			<name>GitHub Akhilesh Pandey Apache Maven Packages</name>
+			<url>https://maven.pkg.github.com/akhilespande/vms-service</url>
+		</repository>
+	</distributionManagement>
+	<developers>
+		<developer>
+			<name>Akhilesh Pandey</name>
+			<email>akhilespande@gmail.com</email>
+			<organization>com.github.akhilespande</organization>
+			<organizationUrl>https://github.com/akhilespande/vms-service</organizationUrl>
+		</developer>
+	</developers>
+
+
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
